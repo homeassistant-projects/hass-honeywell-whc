@@ -15,7 +15,7 @@ Visit the Home Assistant community if you need [help with installation and confi
 
 ### Supported Features
 
-- sensors: water temperature (&deg;F) for upper and lowe tank
+- water temperature (&deg;F) for upper and lower tank
 - heater running on/off detection
 
 #### Not Supported
