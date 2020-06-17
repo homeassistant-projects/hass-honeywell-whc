@@ -1,13 +1,13 @@
 # Honeywell (Resideo) Hot Water Controller for Home Assistant
 
-Home Assistant support for [Honeywell (Resideo) hot water ontrollers](https://github.com/rsnodgrass/pyhoneywell_whc).
-
 ![beta_badge](https://img.shields.io/badge/maturity-Beta-yellow.png)
 ![release_badge](https://img.shields.io/github/v/release/rsnodgrass/hass-honeywell-whc.svg)
 ![release_date](https://img.shields.io/github/release-date/rsnodgrass/hass-honeywell-whc.svg)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WREP29UDAMB6G)
+
+Home Assistant support for [Honeywell (Resideo) hot water controllers](https://github.com/rsnodgrass/pyhoneywell_whc) used on Bradford White, AO Smith, Rheem and other hot water tanks.
 
 ## Support
 
