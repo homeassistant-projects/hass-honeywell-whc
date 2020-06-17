@@ -41,8 +41,9 @@ Note: Manual installation by direct download and copying is not supported, if yo
 Example configuration:
 
 ```yaml
-[water_heater](https://www.home-assistant.io/integrations/water_heater/):
+water_heater:
   - platform: honeywell_whc
+    name: "Hot Water Tank"
     port: /dev/ttyUSB0
 ```
 
@@ -53,9 +54,9 @@ The following is a simplest Lovelace card which shows data from the Flo sensors:
 ```yaml
 type: entities
 entities:
-  - entity: water_heater.honeywell
-  - entity: sensor.honeywell_water_heater_temp_upper
-  - entity: sensor.honeywell_water_heater_temp_lower
+  - entity: water_heater.honeywell_whc
+  - entity: sensor.honeywell_whc_temp_upper
+  - entity: sensor.honeywell_whc_temp_lower
 ```
 
 ## See Also
@@ -66,4 +67,4 @@ entities:
 
 - home/away/vacation mode
 - setback schedule
-- operation_mode: eco
+- operation_mode: eco (forced 120?)
