@@ -1,0 +1,5 @@
+{
+  "name": "Honeywell Water Heater Controller",
+  "domains": [ "water_heater" ],
+  "render_readme": true
+}

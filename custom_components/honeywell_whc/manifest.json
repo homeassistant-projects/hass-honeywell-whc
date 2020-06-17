@@ -1,0 +1,8 @@
+{
+  "domain": "honeywell_whc",
+  "name": "Honeywell Water Heater Controller",
+  "documentation": "https://github.com/rsnodgrass/hass-honeywell-whc/",
+  "requirements": ["pyhoneywell_whc>=0.0.1"],
+  "dependencies": [],
+  "codeowners": ["@rsnodgrass"]
+}
