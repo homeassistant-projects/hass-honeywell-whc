@@ -106,7 +106,7 @@ class HoneywelllWaterHeater(Entity):
         return TEMP_FAHRENHEIT
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Return the optional device state attributes."""
         data = {}
         return data
