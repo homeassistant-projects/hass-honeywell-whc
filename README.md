@@ -1,5 +1,8 @@
 # Honeywell Hot Water Controller for Home Assistant
 
+## THIS IS NOT IMPLEMENTED!!!!!  DO NOT USE. See [rpi_EnviraCOM](https://github.com/latetedemelon/rpi_EnviraCOM)
+
+
 ![beta_badge](https://img.shields.io/badge/maturity-Beta-yellow.png)
 ![release_badge](https://img.shields.io/github/v/release/rsnodgrass/hass-honeywell-whc.svg)
 ![release_date](https://img.shields.io/github/release-date/rsnodgrass/hass-honeywell-whc.svg)
